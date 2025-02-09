@@ -1,7 +1,7 @@
-# 2025-ITELEC2-LAB006
+# 2025-ITELEC2-WK02S01E04
 Week 02 - Python Variables, Operators and I/O Statements
 
-Laboratory # 06 - Utilizing Basic Math Libraries in Python
+Exercise # 04 - Utilizing Basic Math Libraries in Python
 
 ## **Instructions**
 
@@ -77,7 +77,7 @@ Only perform this if this is the first time you will setup your Git Environment
 
 ### **Step 3: Complete the Assignment**
 
-**Laboratory # 06 - Utilizing Basic Math Libraries in Python**
+**Exercise # 04 - Utilizing Basic Math Libraries in Python**
 
    **Objective:**
    This exercise aims to introduce you to Python's math module and demonstrate how to use it to perform common mathematical operations, including: 
@@ -107,14 +107,6 @@ Only perform this if this is the first time you will setup your Git Environment
    - math.exp() calculates the exponential of a number (e raised to that number).
    - math.log() calculates the natural logarithm (base e) by default. You can provide a second argument to specify a different base (e.g., base 10).
 
-   **Python Best Practices**
-   - Import What You Need: Use import math to access math functions. Don't import everything if you only need a few things (though it's fine in this case).
-   - Radians Matter: Trigonometric functions (sin, cos, tan) use radians, not degrees. Use math.radians() to convert.
-   - Constants are Useful: math.pi gives you the value of pi. Use it directly instead of typing it out (mistakes are easy!).
-   - Functions are Tools: math.sqrt(), math.exp(), math.log() are pre-built tools. Use them! Don't reinvent the wheel.
-   - Check Your Answers: Make sure your results match what you expect. This helps catch mistakes early.
-   - Explore: The math module has lots more functions. Look at the documentation to discover them!
-   
    **Step-by-Step Instructions:**
 
    1. Setting up: Open your preferred Python environment or Text Editor, and create a Python Script.
